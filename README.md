@@ -4,11 +4,7 @@
 <h1 align="center">Budget Budy</h1>
 <h3 align="center">Budget Budy is the easiest and most user friendly expense manager app. The simple fact is, by tracking your spending you will be able to stick to a budget and therefore SAVE MONEY.</h3>
 
-<p align="center">
-  <a href="https://github.com/Mufaddal5253110/DailySpending/stargazers">
-    <img src="https://img.shields.io/github/stars/Mufaddal5253110/BudgetBudy.svg?style=for-the-badge">
-  </a>
-</p>
+
 
 
 ## Overview
